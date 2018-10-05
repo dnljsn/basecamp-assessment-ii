@@ -78,4 +78,4 @@ function indexFinder(){
   });
 }
 
-var indexes=indexFinder(); 
+var indexes=indexFinder();
